@@ -1,0 +1,53 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+     color: darkslategray;
+     background-color: lightblue;
+}
+li {
+    font-size: 16px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {color: maroon;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: black;
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+}
+.resumelistbullets{
+    font-size: 16px;
+    color: darkslategray;
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justfiy {text-align: justify;}
+
+.homebg {
+    background-position: top right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+}
+.box2 {
+    padding: 5px;
+}
+.box3 {
+    margin: 10px;
+}
+
+.blacketext {
+    color: black;
+}
